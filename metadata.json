@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Health",
+  "description": "Secure healthcare and telemetry storage with full military-grade SQLCipher encryption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
